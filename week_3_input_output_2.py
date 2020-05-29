@@ -1,3 +1,5 @@
+# Print an integer number digit by digit downwards.
+
 enteredNumber = -1
 digits = []
 
